@@ -1,4 +1,4 @@
-# xB-360
+# Expected Booking xB Model 
 
 Code for paper: Investigating Fouling Efficiency in Football Using Expected Booking (xB) Model
 
