@@ -1,4 +1,4 @@
-lazypredict==0.2.12
+adjustText==0.8
 matplotlib==3.7.1
 numpy==1.24.3
 pandas==1.5.3
